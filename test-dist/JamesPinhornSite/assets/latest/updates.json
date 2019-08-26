@@ -1,0 +1,14 @@
+[
+    {
+        "title": "I've got a new song!",
+        "description": "I've written a new song called \"Ride\", and it is the first song of Volume 7!",
+        "link": "/#/music",
+        "linkDescription": "Go to the music section, and start listening, should be the first song listed."
+    },
+    {
+        "title": "New Covers on Youtube",
+        "description": "Cover of Maestro by Marc Cohn and Alive in the World by Jackson Brown",
+        "link": "https://www.youtube.com/playlist?list=PLgzOlGT6nZFlWuVAyvm09Rm5ck7CipHm2",
+        "linkDescription": "Youtube Playlist with both covers"
+    }
+]
